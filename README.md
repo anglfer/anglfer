@@ -1,64 +1,67 @@
-# 🚀 ¡Bienvenido a mi mundo digital! 👨‍💻
+# 🎩 ¡Hola! Soy Fernando Oñate Reyes 🧑‍💻
 
-¡Ey! ¿Qué onda? Soy **Anglfer**, estudiante de **Desarrollo y Gestión de Software** y futuro crack de la tecnología. Aquí en mi perfil encontrarás un poco de todo: desde proyectos en construcción hasta ideas locas que algún día cambiarán el mundo. 🤘
-
----
-
-## 🦾 Sobre mí
-
-Soy un apasionado del código, las metodologías ágiles y los diagramas UML (porque un buen diagrama siempre salva el día). Pero no todo es trabajo, también soy **gymrat extremo** 🏋️‍♂️. Sí, me encanta el gimnasio, levantar más peso que mis problemas y alcanzar nuevas metas tanto físicas como mentales.
+Bienvenido a mi rincón en GitHub, donde la magia del código y el esfuerzo extremo del gimnasio se encuentran. Aquí no solo encontrarás líneas de código, sino también el reflejo de mi pasión por aprender, crecer y superar límites (¡en todos los sentidos!).
 
 ---
 
-### 🌟 ¿Qué hago?
+## 🚀 Sobre mí
 
-- 🧑‍💻 **Estudiante de Desarrollo y Gestión de Software**: Aprendiendo a dominar el arte de escribir código limpio y eficiente.
-- 💡 **Innovador**: Siempre buscando nuevas ideas para resolver problemas y hacer la vida más fácil.
-- 🏋️‍♂️ **Gymrat**: Porque el equilibrio entre mente y cuerpo es clave.
+Soy **Fernando**, estudiante de **Desarrollo y Gestión de Software** con una misión clara: dominar la tecnología y crear soluciones que realmente impacten. 
 
----
-
-## 🛠️ Habilidades y arsenal tecnológico
-
-Mi mochila de herramientas incluye:
-- **Lenguajes:** Java, JavaScript, HTML, CSS.
-- **Bases de datos:** SQL, MongoDB.
-- **Frameworks:** Aprendiendo React (¡y la estoy rompiendo!).
-- **Modelado:** Diagramas UML como un pro.
-- **Metodologías:** Ágiles como Scrum y Kanban.
-- **Herramientas:** JetBrains IDEs, Office y más.
-
-¡Pero siempre estoy aprendiendo y expandiendo mi arsenal!
+Cuando no estoy programando, me encuentras levantando pesas como un auténtico **gymrat extremo** 🏋️‍♂️. Para mí, la vida es un balance perfecto entre trabajar duro, tanto física como mentalmente.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🌟 ¿Quién soy?
+
+- 💻 **Apasionado del desarrollo:** Siempre explorando nuevas herramientas, lenguajes y metodologías.
+- 🏋️‍♂️ **Fanático del gimnasio:** Porque un cuerpo fuerte es el mejor aliado de una mente ágil.
+- 🎯 **Visionario:** Mi meta es aprender hoy para construir mañana.
+
+---
+
+## 🛠️ Mi arsenal de habilidades
+
+Aquí te dejo una lista de las tecnologías y herramientas que ya manejo (y las que estoy aprendiendo):
+
+### 🔧 **Lenguajes:**
+- Java, JavaScript, HTML, CSS.
+
+### 🗄️ **Bases de datos:**
+- SQL, MongoDB.
+
+### 📚 **Frameworks y librerías:**
+- Aprendiendo React (¡y me está gustando!).
+
+### 🛠️ **Modelado y metodologías:**
+- Diagramas UML, Metodologías Ágiles (Scrum, Kanban).
+
+### 💡 **Herramientas:**
+- JetBrains IDEs, Office, y todo lo que facilite la productividad.
+
+---
+
+## 🎨 Diseño llamativo
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anglfer&show_icons=true&theme=radical)
+![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anglfer&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Fun Facts y estilo de vida
+## 🎯 Datos curiosos sobre mí
 
-- 🏋️‍♂️ **Gymrat extremo:** Si no estoy programando, estoy levantando pesas.
-- 💬 Mi frase favorita: *"El éxito llega para quienes se levantan un millón de veces más de las que caen."*
-
----
-
-## ✨ Conéctate conmigo
-
-Aunque no tengo redes sociales para compartir aquí, siempre estoy abierto a charlar, colaborar o simplemente compartir ideas. Si tienes algo interesante que decir, ¡hazme un ping!
+- 🏋️‍♂️ **Gymrat extremo:** Si no estoy programando, estoy levantando pesas, porque el gimnasio es mi segunda casa.
+- 💬 Mi lema: *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+- 🎮 **Fanático de los retos:** Ya sea en el código, en el gimnasio o en la vida, siempre busco superarme.
 
 ---
 
-## 🔥 Colaboraciones y proyectos
+## 💬 ¡Conéctate conmigo!
 
-No tengo proyectos destacados aún, pero estoy trabajando para llenar este espacio con cosas increíbles. ¡Mantente atento!
-
----
-
-## 🤘 Despedida
-
-Gracias por pasarte por mi perfil. Recuerda: el código no solo es lógica, también es creatividad. ¡Nos vemos en el camino del desarrollo!
+Aunque aún estoy construyendo mi presencia online, estoy abierto a colaborar, aprender y compartir ideas. Si tienes algo interesante en mente, ¡hablemos!
 
 ---
+
+### 🎉 Despedida
+
+Gracias por pasarte por aquí. Recuerda, el código no solo es lógica, también es creatividad. ¡Nos vemos en el camino del desarrollo! 🚀

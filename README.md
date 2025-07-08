@@ -56,6 +56,32 @@ Aquí te dejo una lista de las tecnologías y herramientas que ya manejo (y las 
 
 ---
 
+## 📚 Recomendaciones de Libros
+
+Como alguien que busca personajes complejos y fascinantes, aquí tienes algunas recomendaciones de libros con protagonistas fríos, despiadados e indiferentes, que poseen control mental sobre otros:
+
+### 🧠 **Ciencia Ficción y Fantasía Oscura:**
+
+- **"Primera Ley" (Joe Abercrombie)** - Logen Ninefingers y Bayaz son personajes calculadores y despiadados que manipulan a otros para sus propios fines.
+
+- **"El Nombre del Viento" (Patrick Rothfuss)** - Kvothe es un protagonista complejo con habilidades extraordinarias y una naturaleza a veces fría.
+
+- **"Hyperion Cantos" (Dan Simmons)** - Múltiples protagonistas con poderes mentales y personalidades complejas en un universo de ciencia ficción.
+
+- **"Los Primeros Quince Vidas de Harry August" (Claire North)** - Un protagonista que renace con todos sus recuerdos, desarrollando una perspectiva fría sobre la humanidad.
+
+- **"Red Rising" (Pierce Brown)** - Darrow evoluciona de oprimido a manipulador despiadado con control sobre otros.
+
+### 🗡️ **Fantasía Épica con Anti-héroes:**
+
+- **"Malazan: El Libro de los Caídos" (Steven Erikson)** - Múltiples personajes con poderes divinos y personalidades complejas y a menudo despiadadas.
+
+- **"Gentleman Bastard" (Scott Lynch)** - Locke Lamora es un ladrón manipulador y calculador.
+
+Estos libros ofrecen protagonistas que van más allá del héroe tradicional, explorando la psicología de personajes con poder y la voluntad de usarlo sin restricciones morales.
+
+---
+
 ## 💬 ¡Conéctate conmigo!
 
 Aunque aún estoy construyendo mi presencia online, estoy abierto a colaborar, aprender y compartir ideas. Si tienes algo interesante en mente, ¡hablemos!

@@ -31,7 +31,7 @@ Aquí te dejo una lista de las tecnologías y herramientas que ya manejo (y las 
 - SQL, MongoDB.
 
 ### 📚 **Frameworks y librerías:**
-- Aprendiendo React (¡y me está gustando!).
+- Aprendiendo Angular, Spring boot.
 
 ### 🛠️ **Modelado y metodologías:**
 - Diagramas UML, Metodologías Ágiles (Scrum, Kanban).

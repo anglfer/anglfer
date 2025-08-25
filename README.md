@@ -45,21 +45,3 @@ Aquí te dejo una lista de las tecnologías y herramientas que ya manejo (y las 
 ![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anglfer&layout=compact&theme=radical)
 
 ---
-
-## 🎯 Datos curiosos sobre mí
-
-- 🏋️‍♂️ **Gymrat extremo:** Si no estoy programando, estoy levantando pesas, porque el gimnasio es mi segunda casa.
-- 💬 Mi lema: *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
-- 🎮 **Fanático de los retos:** Ya sea en el código, en el gimnasio o en la vida, siempre busco superarme.
-
----
-
-## 💬 ¡Conéctate conmigo!
-
-Aunque aún estoy construyendo mi presencia online, estoy abierto a colaborar, aprender y compartir ideas. Si tienes algo interesante en mente, ¡hablemos!
-
----
-
-### 🎉 Despedida
-
-Gracias por pasarte por aquí. Recuerda, el código no solo es lógica, también es creatividad. ¡Nos vemos en el camino del desarrollo! 🚀

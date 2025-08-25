@@ -41,9 +41,7 @@ Aquí te dejo una lista de las tecnologías y herramientas que ya manejo (y las 
 
 ---
 
-## 🎨 Diseño llamativo
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anglfer&show_icons=true&theme=radical)
 ![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anglfer&layout=compact&theme=radical)
 
 ---
